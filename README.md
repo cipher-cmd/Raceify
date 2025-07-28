@@ -1,12 +1,25 @@
-# React + Vite
+        About the Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Raceify is a working model of an online store for Formula 1 merchandise. It is designed to look and feel like a professional e-commerce website, with a color theme inspired by the Red Bull Racing team.
 
-Currently, two official plugins are available:
+        Main Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Browse Products: You can see a full collection of F1 products with pictures, descriptions, and prices in Indian Rupees.
 
-## Expanding the ESLint configuration
+Search and Filter: Easily find specific items by searching for their name, or by filtering by team and category.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Full Shopping Cart: Add items to a shopping cart, change the quantity of each item, and see the total price update automatically.
+
+Quick Product Preview: A "Quick View" button lets you see product details in a pop up window without leaving the page.
+
+User Accounts: The website includes a complete system for users to create an account, log in, and reset their password.
+
+Works on All Devices: The design is fully responsive, meaning it looks great and works perfectly on phones, tablets, and computers.
+
+        Technologies Used
+
+Framework: React.js
+Language: JavaScript
+Styling: Tailwind CSS
+Development Tool: Vite
+Website Hosting: Vercel
